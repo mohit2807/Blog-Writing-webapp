@@ -35,3 +35,4 @@ logs/
 # Flask instance and secrets
 instance/
 .flaskenv
+*.mo
